@@ -1,0 +1,204 @@
+---
+title: "Academic Writing & Citations"
+subtitle: "APA Format Essentials"
+author: "POPH 001: Introduction to Population Health"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    show-slide-number: all
+    transition: slide
+    background-transition: fade
+    footer: "POPH 001 | Spring 2026"
+    incremental: false
+    scrollable: true
+---
+
+## Why Citations Matter {background-color="#008080"}
+
+::: {.columns style="font-size: 0.7em;"}
+::: {.column width="50%"}
+**Academic integrity**
+
+- Give credit to original authors
+- Avoid plagiarism
+- Show depth of research
+- Allow readers to find sources
+:::
+
+::: {.column width="50%"}
+**APA Style (7th edition)**
+
+- Standard in health sciences
+- Two parts: in-text + reference list
+- Every citation needs both
+
+**Resource:** [apastyle.apa.org](https://apastyle.apa.org)
+:::
+:::
+
+## In-Text Citations {background-color="#008080"}
+
+::: {style="font-size: 0.65em;"}
+**Basic format:** (Author, Year) or Author (Year)
+
+**Examples:**
+
+- One author: (Smith, 2020) or Smith (2020) found that...
+- Two authors: (Jones & Lee, 2021)
+- Three or more: (Johnson et al., 2022)
+- Organization: (CDC, 2023)
+- Direct quote: (Smith, 2020, p. 45)
+
+**In a sentence:**
+
+Social determinants significantly impact health (Marmot & Wilkinson, 2006). As Wilkinson and Marmot (2003) noted, "The social and economic circumstances...profoundly affect their health" (p. 7).
+:::
+
+## Citing Journal Articles {background-color="#008080"}
+
+::: {style="font-size: 0.65em;"}
+**Format:** Author, A. A., & Author, B. B. (Year). Title of article. *Title of Journal, Volume*(Issue), pages. https://doi.org/xx.xxxx
+
+**Example with DOI:**
+
+Braveman, P., & Gottlieb, L. (2014). The social determinants of health: It's time to consider the causes of the causes. *Public Health Reports, 129*(Suppl. 2), 19-31. https://doi.org/10.1177/00333549141291S206
+
+**Example without DOI:**
+
+Williams, D. R., & Mohammed, S. A. (2013). Discrimination and racial disparities in health: Evidence and needed research. *Journal of Behavioral Medicine, 32*(1), 20-47.
+
+**Note:** 
+- Italicize journal name and volume
+- Include DOI when available
+- Article title: Only capitalize first word and proper nouns
+:::
+
+## Citing Books {background-color="#008080"}
+
+::: {style="font-size: 0.65em;"}
+**Entire book:** Author, A. A. (Year). *Title of book* (Edition). Publisher.
+
+Marmot, M. (2015). *The health gap: The challenge of an unequal world*. Bloomsbury Publishing.
+
+**Edited book:** Editor, E. E. (Ed.). (Year). *Title of book* (Edition). Publisher.
+
+Berkman, L. F., Kawachi, I., & Glymour, M. M. (Eds.). (2014). *Social epidemiology* (2nd ed.). Oxford University Press.
+
+**Chapter in edited book:** Author, A. A. (Year). Chapter title. In E. E. Editor (Ed.), *Book title* (pp. pages). Publisher.
+
+Link, B. G., & Phelan, J. (2000). Evaluating the fundamental cause explanation for social disparities in health. In C. E. Bird, P. Conrad, & A. M. Fremont (Eds.), *Handbook of medical sociology* (pp. 33-46). Prentice Hall.
+
+**Note:** Italicize book titles
+:::
+
+## Citing Websites {background-color="#008080"}
+
+::: {style="font-size: 0.65em;"}
+**Format:** Author/Organization. (Year, Month Day). *Title of page*. Website Name. URL
+
+or: Author/Organization. (Year, Month Day). *Title of page*. Retrieved Month Day, Year, from URL
+
+**When to include "Retrieved [date]":**
+
+- ✅ Content likely to change: data dashboards, wikis, live databases
+- ❌ Fixed content: published reports, archived pages, PDFs
+
+**Examples:**
+
+Centers for Disease Control and Prevention. (2023, August 15). *Social determinants of health at CDC*. https://www.cdc.gov/about/sdoh/index.html
+
+World Health Organization. (2024). *Global health observatory data repository*. Retrieved February 16, 2026, from https://www.who.int/data/gho
+
+Robert Wood Johnson Foundation. (2023). *County health rankings & roadmaps 2023*. https://www.countyhealthrankings.org
+:::
+
+## Other Common Sources {background-color="#008080"}
+
+::: {style="font-size: 0.65em;"}
+**Government report:**
+
+National Academies of Sciences, Engineering, and Medicine. (2017). *Communities in action: Pathways to health equity*. The National Academies Press. https://doi.org/10.17226/24624
+
+**Policy brief:**
+
+Kaiser Family Foundation. (2023, July). *Key facts about the uninsured population*. https://www.kff.org/uninsured/issue-brief/key-facts-about-the-uninsured-population
+
+**Dataset:**
+
+University of Wisconsin Population Health Institute. (2023). *County health rankings & roadmaps 2023* [Data set]. https://www.countyhealthrankings.org
+
+Centers for Disease Control and Prevention. (2024). *Behavioral Risk Factor Surveillance System survey data*. Retrieved February 16, 2026, from https://www.cdc.gov/brfss
+:::
+
+## Reference List Format {background-color="#ff69b4"}
+
+::: {.columns style="font-size: 0.7em;"}
+::: {.column width="50%"}
+**Formatting rules:**
+
+- New page titled "References"
+- Alphabetical by author last name
+- Hanging indent (first line flush, others indented)
+- Double-spaced
+- Every in-text citation must appear here
+:::
+
+::: {.column width="50%"}
+**Common mistakes:**
+
+- ❌ Forgetting in-text citations
+- ❌ Using "Retrieved from" for everything
+- ❌ Missing DOI when available
+- ❌ Wrong capitalization
+- ❌ Sources in reference list not cited in text
+:::
+:::
+
+## Quick Reference {background-color="#008080"}
+
+::: {style="font-size: 0.6em;"}
+| **Source** | **Format** | **Example** |
+|:---|:---|:---|
+| **Journal** | Author (Year). Title. *Journal, Vol*(Issue), pages. DOI | Smith, J. (2020). Health equity. *Am J Public Health, 110*(5), 45-52. https://doi.org/xx |
+| **Book** | Author (Year). *Title*. Publisher. | Jones, A. (2021). *Population health*. Oxford Press. |
+| **Chapter** | Author (Year). Chapter. In Editor (Ed.), *Book* (pp. x-x). Publisher. | Lee, S. (2019). Determinants. In Kim (Ed.), *Health* (pp. 12-20). Press. |
+| **Website** | Organization (Year, Month Day). *Title*. URL | CDC (2023, May 1). *Data*. https://cdc.gov/data |
+| **Website (updated)** | Org (Year). *Title*. Retrieved Month Day, Year, from URL | WHO (2024). *Data*. Retrieved Feb 16, 2026, from https://who.int |
+| **Report** | Organization (Year). *Report title*. URL | RWJF (2023). *CHR report*. https://rwjf.org/report |
+:::
+
+## Bibliography Tools (Optional) {background-color="#ff69b4"}
+
+::: {.columns style="font-size: 0.7em;"}
+::: {.column width="50%"}
+**Reference managers** help you:
+
+- Organize sources
+- Auto-generate citations
+- Switch citation styles
+- Build reference lists
+
+**Popular options:**
+
+- Zotero (free)
+- Mendeley (free)
+- EndNote (paid)
+:::
+
+::: {.column width="50%"}
+**These tools are optional**
+
+Most students format citations manually for this course.
+
+If interested, explore:
+- [www.zotero.org](https://www.zotero.org)
+- Library workshops
+- Online tutorials
+
+**Manual formatting is fine!**
+:::
+:::
+
+
+
