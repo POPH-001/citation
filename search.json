@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html#why-citations-matter",
+    "href": "index.html#why-citations-matter",
+    "title": "Academic Writing & Citations",
+    "section": "Why Citations Matter",
+    "text": "Why Citations Matter\n\n\nAcademic integrity\n\nGive credit to original authors\nAvoid plagiarism\nShow depth of research\nAllow readers to find sources\n\n\nAPA Style (7th edition)\n\nStandard in health sciences\nTwo parts: in-text + reference list\nEvery citation needs both\n\nResource: apastyle.apa.org"
+  },
+  {
+    "objectID": "index.html#in-text-citations",
+    "href": "index.html#in-text-citations",
+    "title": "Academic Writing & Citations",
+    "section": "In-Text Citations",
+    "text": "In-Text Citations\n\nBasic format: (Author, Year) or Author (Year)\nExamples:\n\nOne author: (Smith, 2020) or Smith (2020) found that…\nTwo authors: (Jones & Lee, 2021)\nThree or more: (Johnson et al., 2022)\nOrganization: (CDC, 2023)\nDirect quote: (Smith, 2020, p. 45)\n\nIn a sentence:\nSocial determinants significantly impact health (Marmot & Wilkinson, 2006). As Wilkinson and Marmot (2003) noted, “The social and economic circumstances…profoundly affect their health” (p. 7)."
+  },
+  {
+    "objectID": "index.html#citing-journal-articles",
+    "href": "index.html#citing-journal-articles",
+    "title": "Academic Writing & Citations",
+    "section": "Citing Journal Articles",
+    "text": "Citing Journal Articles\n\nFormat: Author, A. A., & Author, B. B. (Year). Title of article. Title of Journal, Volume(Issue), pages. https://doi.org/xx.xxxx\nExample with DOI:\nBraveman, P., & Gottlieb, L. (2014). The social determinants of health: It’s time to consider the causes of the causes. Public Health Reports, 129(Suppl. 2), 19-31. https://doi.org/10.1177/00333549141291S206\nExample without DOI:\nWilliams, D. R., & Mohammed, S. A. (2013). Discrimination and racial disparities in health: Evidence and needed research. Journal of Behavioral Medicine, 32(1), 20-47.\nNote: - Italicize journal name and volume - Include DOI when available - Article title: Only capitalize first word and proper nouns"
+  },
+  {
+    "objectID": "index.html#citing-books",
+    "href": "index.html#citing-books",
+    "title": "Academic Writing & Citations",
+    "section": "Citing Books",
+    "text": "Citing Books\n\nEntire book: Author, A. A. (Year). Title of book (Edition). Publisher.\nMarmot, M. (2015). The health gap: The challenge of an unequal world. Bloomsbury Publishing.\nEdited book: Editor, E. E. (Ed.). (Year). Title of book (Edition). Publisher.\nBerkman, L. F., Kawachi, I., & Glymour, M. M. (Eds.). (2014). Social epidemiology (2nd ed.). Oxford University Press.\nChapter in edited book: Author, A. A. (Year). Chapter title. In E. E. Editor (Ed.), Book title (pp. pages). Publisher.\nLink, B. G., & Phelan, J. (2000). Evaluating the fundamental cause explanation for social disparities in health. In C. E. Bird, P. Conrad, & A. M. Fremont (Eds.), Handbook of medical sociology (pp. 33-46). Prentice Hall.\nNote: Italicize book titles"
+  },
+  {
+    "objectID": "index.html#citing-websites",
+    "href": "index.html#citing-websites",
+    "title": "Academic Writing & Citations",
+    "section": "Citing Websites",
+    "text": "Citing Websites\n\nFormat: Author/Organization. (Year, Month Day). Title of page. Website Name. URL\nor: Author/Organization. (Year, Month Day). Title of page. Retrieved Month Day, Year, from URL\nWhen to include “Retrieved [date]”:\n\n✅ Content likely to change: data dashboards, wikis, live databases\n❌ Fixed content: published reports, archived pages, PDFs\n\nExamples:\nCenters for Disease Control and Prevention. (2023, August 15). Social determinants of health at CDC. https://www.cdc.gov/about/sdoh/index.html\nWorld Health Organization. (2024). Global health observatory data repository. Retrieved February 16, 2026, from https://www.who.int/data/gho\nRobert Wood Johnson Foundation. (2023). County health rankings & roadmaps 2023. https://www.countyhealthrankings.org"
+  },
+  {
+    "objectID": "index.html#other-common-sources",
+    "href": "index.html#other-common-sources",
+    "title": "Academic Writing & Citations",
+    "section": "Other Common Sources",
+    "text": "Other Common Sources\n\nGovernment report:\nNational Academies of Sciences, Engineering, and Medicine. (2017). Communities in action: Pathways to health equity. The National Academies Press. https://doi.org/10.17226/24624\nPolicy brief:\nKaiser Family Foundation. (2023, July). Key facts about the uninsured population. https://www.kff.org/uninsured/issue-brief/key-facts-about-the-uninsured-population\nDataset:\nUniversity of Wisconsin Population Health Institute. (2023). County health rankings & roadmaps 2023 [Data set]. https://www.countyhealthrankings.org\nCenters for Disease Control and Prevention. (2024). Behavioral Risk Factor Surveillance System survey data. Retrieved February 16, 2026, from https://www.cdc.gov/brfss"
+  },
+  {
+    "objectID": "index.html#reference-list-format",
+    "href": "index.html#reference-list-format",
+    "title": "Academic Writing & Citations",
+    "section": "Reference List Format",
+    "text": "Reference List Format\n\n\nFormatting rules:\n\nNew page titled “References”\nAlphabetical by author last name\nHanging indent (first line flush, others indented)\nDouble-spaced\nEvery in-text citation must appear here\n\n\nCommon mistakes:\n\n❌ Forgetting in-text citations\n❌ Using “Retrieved from” for everything\n❌ Missing DOI when available\n❌ Wrong capitalization\n❌ Sources in reference list not cited in text"
+  },
+  {
+    "objectID": "index.html#quick-reference",
+    "href": "index.html#quick-reference",
+    "title": "Academic Writing & Citations",
+    "section": "Quick Reference",
+    "text": "Quick Reference\n\n\n\n\n\n\n\n\n\nSource\nFormat\nExample\n\n\n\n\nJournal\nAuthor (Year). Title. Journal, Vol(Issue), pages. DOI\nSmith, J. (2020). Health equity. Am J Public Health, 110(5), 45-52. https://doi.org/xx\n\n\nBook\nAuthor (Year). Title. Publisher.\nJones, A. (2021). Population health. Oxford Press.\n\n\nChapter\nAuthor (Year). Chapter. In Editor (Ed.), Book (pp. x-x). Publisher.\nLee, S. (2019). Determinants. In Kim (Ed.), Health (pp. 12-20). Press.\n\n\nWebsite\nOrganization (Year, Month Day). Title. URL\nCDC (2023, May 1). Data. https://cdc.gov/data\n\n\nWebsite (updated)\nOrg (Year). Title. Retrieved Month Day, Year, from URL\nWHO (2024). Data. Retrieved Feb 16, 2026, from https://who.int\n\n\nReport\nOrganization (Year). Report title. URL\nRWJF (2023). CHR report. https://rwjf.org/report"
+  },
+  {
+    "objectID": "index.html#bibliography-tools-optional",
+    "href": "index.html#bibliography-tools-optional",
+    "title": "Academic Writing & Citations",
+    "section": "Bibliography Tools (Optional)",
+    "text": "Bibliography Tools (Optional)\n\n\nReference managers help you:\n\nOrganize sources\nAuto-generate citations\nSwitch citation styles\nBuild reference lists\n\nPopular options:\n\nZotero (free)\nMendeley (free)\nEndNote (paid)\n\n\nThese tools are optional\nMost students format citations manually for this course.\nIf interested, explore: - www.zotero.org - Library workshops - Online tutorials\nManual formatting is fine!"
+  }
+]
