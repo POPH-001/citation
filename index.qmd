@@ -9,7 +9,6 @@ format:
     show-slide-number: all
     transition: slide
     background-transition: fade
-    footer: "POPH 001 | Spring 2026"
     incremental: false
     scrollable: true
 ---
